@@ -1,0 +1,5 @@
+:
+
+🎬 Movie Success Prediction using Machine Learning
+
+This project focuses on predicting movie success by analyzing the TMDB 5000 Movie Dataset using Data Analytics and Machine Learning techniques. The objective is to identify the factors that influence a movie's box office revenue and build a predictive model using Linear Regression. The project begins with data cleaning and preprocessing, followed by Exploratory Data Analysis (EDA) to uncover meaningful patterns and relationships within the dataset. Various visualizations, including revenue distribution, budget versus revenue, and rating analysis, were created using Matplotlib to gain insights into movie performance. A Linear Regression model was then trained using features such as budget, popularity, runtime, vote average, and vote count to predict movie revenue. The project was developed in Python using Pandas, NumPy, Scikit-learn, and Google Colab. This project demonstrates practical applications of data analysis, visualization, and predictive modeling while strengthening skills in machine learning and data-driven decision-making.
